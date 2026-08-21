@@ -1,2 +1,57 @@
 # IT Portfolio of H.Killian
-Hands-on IT support, Microsoft 365, Active Directory and Windows labs.
+## Lab 1 : Microsoft 365 and Entra ID
+### Step 1: Creating a New User in Microsoft 365. In this step, I provisioned a new user account in the Microsoft 365 admin centre
+
+![Adding a User](Screenshot 2026-08-18 062548.png)
+
+### Step 2: Assigning a Microsoft 365 License
+In this step, I assigned the appropriate product licenses to the newly created user account to grant them access to cloud services.
+
+![Assigning a product license](Screenshot 2026-08-18 062607.png)
+
+### Step 3: Configuring User Roles and Optional Settings
+In this step, I configured the user's role settings, keeping them as a standard user with no administrative access to follow the principle of least privilege.
+
+![Configuring User Roles](Screenshot 2026-08-18 062627.png)
+
+### Step 4: Creating a Microsoft 365 Group and Assigning Owners
+In this step, I initiated the creation of a new security or distribution group and assigned an owner to manage the group's members and administrative settings.
+
+![Assigning Group Owners](Screenshot 2026-08-18 063031.png)
+
+### Step 5: Adding Members to the Group
+In this step of the configuration wizard, I added regular users as group members to grant them collaborative access to the group's shared resources and emails.
+
+![Adding Group Members](Screenshot 2026-08-18 063105.png)
+
+### Step 6: Verifying Group Creation
+In this step, I verified that the setup wizard completed successfully and the "Marketing" group was officially created in the tenant directory.
+
+![Marketing Group Created Confirmation](Screenshot 2026-08-18 063608.png)
+
+### Step 7: Resetting a User Password
+In this step, I initiated a password reset for a user account, configuring it to automatically create a password and require the user to change it upon their first sign-in.
+
+![Resetting User Password](Screenshot 2026-08-18 063732)
+
+### Step 8: Verifying Password Reset Confirmation
+In this step, I verified that the system successfully processed the request and confirmed the password reset was complete.
+
+![Password Reset Confirmation](Screenshot 2026-08-18 063752.png)
+
+### Step 9: Revoking Active User Sessions in Entra ID
+In this step, I navigated to the Entra ID admin center and initiated a global session revocation for a user account to forcefully sign them out of all active devices and applications for security compliance.
+
+![Revoking User Sessions](Screenshot 2026-08-18 093703.png)
+
+### Step 10: Verifying Session Revocation Confirmation
+In this step, I verified the action was successful by confirming the administrative alert notification showing that sign-in sessions were successfully revoked.
+
+![Session Revocation Confirmation](Screenshot 2026-08-18 093713.png)
+
+### Step 11: Accessing Per-User Multifactor Authentication (MFA) Settings
+In this step, I accessed the per-user MFA settings console within Entra ID to identify user accounts requiring multi-factor authentication enrollment.
+
+![Accessing Per-User MFA Dashboard](Screenshot 2026-08-18 095317))
+
+
