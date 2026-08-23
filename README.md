@@ -1,5 +1,6 @@
-# Hands-on IT Project
-## Lab 1 : Microsoft 365 and Entra ID
+# Lab 1 : Microsoft 365 and Entra ID
+## Objective
+To build a tenancy in Microsoft 365
 ### Step 1: Creating a New User in Microsoft 365. In this step, I provisioned a new user account in the Microsoft 365 admin centre
 
 ![Adding a User](Screenshot%202026-08-18%20062548.png)
