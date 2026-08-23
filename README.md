@@ -1,4 +1,4 @@
-# IT Portfolio of H.Killian
+# Hands-on IT Project
 ## Lab 1 : Microsoft 365 and Entra ID
 ### Step 1: Creating a New User in Microsoft 365. In this step, I provisioned a new user account in the Microsoft 365 admin centre
 
