@@ -3,7 +3,7 @@
 To build a tenancy in Microsoft 365
 ### Step 1: Creating a New User in Microsoft 365. In this step, I provisioned a new user account in the Microsoft 365 admin centre
 
-![Adding a User](Screenshot%202026-08-18%20062548.png)
+![Adding a User](images/Screenshot%202026-08-18%20062548.png)
 
 ### Step 2: Assigning a Microsoft 365 License
 In this step, I assigned the appropriate product licenses to the newly created user account to grant them access to cloud services.
