@@ -1,6 +1,6 @@
 # Microsoft 365 Lab
 ## Objective
-### This lab was created as a self-directed Microsoft 365 environment to gain practical, hands-on experience with the administration and support tasks commonly performed by an entry-level IT support technician. The objective was to create and configure a Microsoft 365 tenant, build a functional lab environment, create and manage user accounts and groups, perform basic account and password administration, and become familiar with the Microsoft 365 admin center and related services.
+This lab was created as a self-directed Microsoft 365 environment to gain practical, hands-on experience with the administration and support tasks commonly performed by an entry-level IT support technician. The objective was to create and configure a Microsoft 365 tenant, build a functional lab environment, create and manage user accounts and groups, perform basic account and password administration, and become familiar with the Microsoft 365 admin center and related services.
 ### Step 1: Creating a New User in Microsoft 365. In this step, I provisioned a new user account in the Microsoft 365 admin centre
 
 ![Adding a User](images/Screenshot%202026-08-18%20062548.png)
